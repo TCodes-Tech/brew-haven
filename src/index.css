@@ -1,0 +1,14 @@
+@import "tailwindcss"; 
+
+body {
+  background: #0F0F0F;
+  color: #FFFFFF;
+}
+
+nav {
+  position: sticky;
+}
+
+button{
+  cursor: pointer;
+}
